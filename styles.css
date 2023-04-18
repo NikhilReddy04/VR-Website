@@ -1,0 +1,183 @@
+.vr-logo {
+    width: 75px;
+    height: 45px;
+}
+
+#navItem2 {
+    color: #323f4b;
+}
+
+#navItem3 {
+    color: #323f4b;
+}
+
+#navItem4 {
+    color: #323f4b;
+}
+
+.vr-banner-bg-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.vr-view-more-button {
+    background-color: #1a2137;
+    color: white;
+    width: 110px;
+}
+
+.vr-banner-main-heading {
+    color: white;
+    height: 100px;
+}
+
+.vr-website-features-main-heading {
+    color: #1f2933;
+    font-size: 25px;
+}
+
+.vr-website-features-image {
+    width: 80px;
+}
+
+.vr-website-features-heading {
+    font-size: 30px;
+    color: #1f2933;
+}
+
+.vr-website-features-para {
+    font-size: 20px;
+    color: #7b8794;
+}
+
+.vr-website-features-interaction-span {
+    font-style: italic;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.vr-website-included-vr-kit-section {
+    background-color: #f9fbfe;
+}
+
+.vr-website-included-vr-kit-main-heading {
+    color: #1f2933;
+    font-size: 30px;
+}
+
+.vr-website-included-vr-kit-images {
+    width: 220px;
+    height: 300px;
+}
+
+.vr-website-included-vr-kit-para {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.vr-website-included-vr-kit-images-ttc {
+    width: 220px;
+    height: 300px;
+}
+
+.vr-website-optics-and-controllers-section-heading {
+    font-size: 35px;
+    color: #1f2933;
+}
+
+.vr-website-optics-and-controllers-section-para {
+    font-size: 20px;
+    color: #7b8794;
+}
+
+.vr-website-optics-and-controllers-section-button {
+    background-color: #1a2137;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: none;
+    border-radius: 2px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 2px;
+}
+
+.vr-website-contact-us-section {
+    background-color: #222b36
+}
+
+.vr-website-contact-us-section-heading {
+    color: white;
+    font-size: 30px;
+}
+
+.vr-website-contact-us-section-button {
+    background-color: transparent;
+    color: white;
+    border: solid;
+    border-width: 1px;
+    border-color: white;
+    padding: 5px;
+}
+
+.vr-website-trending-blogs-section-heading {
+    color: #959ead;
+    font-size: 15px;
+}
+
+.vr-website-trending-blogs-section-para {
+    color: #1f2933;
+    font-size: 15px;
+}
+
+.vr-website-trending-blogs-section-link {
+    color: #1754a1;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.vr-website-trending-blogs-section-main-heading {
+    color: #1f2933;
+    font-size: 30px;
+}
+
+.vr-website-footer-section {
+    background-color: #19232d;
+}
+
+.vr-website-footer-section-image {
+    width: 70px;
+}
+
+.vr-website-footer-section-icon-container {
+    background-color: #202b36;
+    color: #5a7184;
+    padding: 15px;
+    width: 55px;
+    border-radius: 60px;
+    text-align: center;
+}
+
+.vr-website-footer-section-address-para {
+    color: #5a7184;
+}
+
+.vr-website-footer-section-text-heading {
+    color: #5a7184;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.vr-website-footer-section-text-info {
+    color: #5a7184;
+    font-size: 17px;
+}
+
+.vr-website-footer-section-copyright-section-hr {
+    color: #5a7184;
+    border-width: 1px;
+    border-style: solid;
+}
